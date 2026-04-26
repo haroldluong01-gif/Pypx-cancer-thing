@@ -62,6 +62,3 @@ Think of malignant as a cancerous tumour.
 
 data_loader.ipynb is where the program verifies that the images are
 rady and usable before the machine learning model is trained.
-
-
-Think of malignant as a cancerous tumour.
