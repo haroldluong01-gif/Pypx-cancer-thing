@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pypx-cancer-thing
 Cancer cells look abnormal compared to healthy cells: they often have irregular shapes,  larger or misshapen nuclei, and tend to clump together instead of forming orderly layers. Under a microscope, they appear distorted and disorganized, reflecting their uncontrolled growth. This project is about detecting and killing cancer cells. 
 
@@ -17,7 +16,7 @@ Normal cells are healthy and function as expected, whereas benign cells
 form non-cancerous growths (tumors) that may appear abnormal but do not
 invade surrounding tissue or spread to other parts of the body.
 
-=======
+
 70-80% of the images are in the train directory.
 
 20-30% of the images are in the validation directory.
@@ -26,7 +25,6 @@ Both of these directories contain the following subdirectories:
 cancer/
 normal/
 
->>>>>>> 1a4c3c2d (Next.js Django fullstack human geography assessment project updated.)
 The images for the benign and malignant cells came from the following
 source:
 https://data.mendeley.com/datasets/jxwvdwhpc2/1
@@ -59,13 +57,11 @@ benign/
 malignant/
 
 Think of benign as a non-cancerous tumour.
-<<<<<<< HEAD
+
 Think of malignant as a cancerous tumour.
 
 data_loader.ipynb is where the program verifies that the images are
 rady and usable before the machine learning model is trained.
 
 
-=======
 Think of malignant as a cancerous tumour.
->>>>>>> 1a4c3c2d (Next.js Django fullstack human geography assessment project updated.)

@@ -12,6 +12,9 @@ cancer_detection_project/
 │       └── normal/
 │
 ├── outputs/
+│   ├── cancer_model.h5
+│   ├── cancer_model.keras
+│   └── plots.ipynb
 │
 ├── src/
 │   ├── data_loader.ipynb
