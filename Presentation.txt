@@ -1,0 +1,13 @@
+Hooks:
+Would you like to see if a computer is better at spotting tiny differences
+in pictures than a human is?
+
+Do you want to see how AI can spot cancer faster than a doctor looking at
+hundreds of images?
+
+Pause after each question for 2 to 3 seconds.
+
+----------------------------------------------------------------------------
+Binary cross-entropy
+
+How wrong was the computer, and how confident was it?
